@@ -16,7 +16,7 @@
   "homepage": "https://bitbucket.org/stbaeumer/placemat#readme",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mysql": "^2.16.0",
     "nodemon": "^1.18.9",
     "pg": "^7.7.1"
